@@ -1,7 +1,7 @@
 TWRP Device Tree for OPPO A12/A11k
 ===========================================
 
-The OPPO A12/A11k is a budget range smartphone from Realme, announced in April 2020.
+The OPPO A12/A11k is a budget range smartphone from OPPO, announced in April 2020.
 
 ## Status
 
