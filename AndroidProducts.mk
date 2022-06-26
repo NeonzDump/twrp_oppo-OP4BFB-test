@@ -17,7 +17,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/twrp_RMX1941.mk
+	$(LOCAL_DIR)/twrp_OP4BFB.mk
 
 COMMON_LUNCH_CHOICES := \
-        twrp_RMX1941-eng
+        twrp_OP4BFB-eng
